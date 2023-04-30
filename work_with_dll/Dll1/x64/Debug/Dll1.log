@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+  LINK : не найден или не выполнена сборка C:\Users\HUAWEI\source\repos\ТТП 9\x64\Debug\Dll1.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\HUAWEI\source\repos\ТТП 9\x64\Debug\Dll1.lib и объект C:\Users\HUAWEI\source\repos\ТТП 9\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\HUAWEI\source\repos\ТТП 9\x64\Debug\Dll1.dll
